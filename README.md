@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ty-hudson-avatar.png" width="120" alt="Ty Hudson — TH monogram" />
+  <img src="ty-hudson-avatar.png" width="120" alt="Ty Hudson — TH monogram" />
 </p>
 <h1 align="center">Ty Hudson</h1>
 <p align="center"><strong>AI agents · Developer tools · Creative technology</strong></p>
